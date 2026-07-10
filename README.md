@@ -1,9 +1,7 @@
-# Smart-Kitchen-AI
+
 <!DOCTYPE html>
 <html>
 <head>
-<title>Smart Kitchen AI</title>
-<link rel="stylesheet" href="style.css">
 </head>
 
 <body>
