@@ -57,7 +57,8 @@ ingredient substitutions, meal planning, and kitchen guidance.
 
 <h2>Architecture</h2>
 
-<img src="architecture.png" width="700">
+<img src="<img width="1181" height="1331" alt="architecture" src="https://github.com/user-attachments/assets/80e2e1fb-bad8-48d9-bef0-e6c519277b9f" />
+" width="700">
 
 </section>
 
@@ -65,9 +66,18 @@ ingredient substitutions, meal planning, and kitchen guidance.
 
 <h2>Screenshots</h2>
 
-<img src="screenshot1.png" width="350">
+<img src="<img width="1600" height="900" alt="screenshot1" src="https://github.com/user-attachments/assets/071ec227-265b-47d4-90e5-0617db794e3d" />
+" width="350">
 
-<img src="screenshot2.png" width="350">
+<img src="<img width="1600" height="900" alt="screenshot2" src="https://github.com/user-attachments/assets/0decda9c-1be2-437e-b953-d55ef10b76a7" />
+" width="350">
+
+<img src="<img width="1600" height="900" alt="screenshot3" src="https://github.com/user-attachments/assets/2254c3c0-65f5-42c0-84d5-bfa3144f44fb" />
+" width="350">
+
+<img src="<img width="1600" height="900" alt="screenshot4" src="https://github.com/user-attachments/assets/0c39f794-8282-4420-8d8d-5e7217c33146" />
+" width="350">
+
 
 </section>
 
